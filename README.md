@@ -12,6 +12,10 @@
 
 Low-level wrapper for navigator.mediaDevices.enumerateDevices() and MediaStreamTrack.getSources()
 
+This package is part of WRTC project.
+
+Not yet ready for public usage.
+
 
 If you have different needs regarding the functionality, please add a [feature request](https://github.com/alykoshin/webapi-enumeratedevices/issues).
 
@@ -23,6 +27,10 @@ npm install --save webapi-enumeratedevices
 ```
 
 ## Usage
+
+This package is part of WRTC project.
+
+Not yet ready for public usage.
 
 
 ## Credits
