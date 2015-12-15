@@ -1,6 +1,6 @@
 {
   "name": "webapi-enumeratedevices",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Low-level wrapper for navigator.mediaDevices.enumerateDevices() and MediaStreamTrack.getSources()",
   "main": "app/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "coverall": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "keywords": [
-      "webapi,webrtc,mediaDevices,enumerateDevices,MediaStreamTrack,getSources"
+    "webapi,webrtc,mediaDevices,enumerateDevices,MediaStreamTrack,getSources"
   ],
   "author": "Alexander <alykoshin@gmail.com>",
   "license": "MIT",
@@ -35,8 +35,7 @@
     "url": "https://github.com/alykoshin/webapi-enumeratedevices/issues"
   },
   "homepage": "https://github.com/alykoshin/webapi-enumeratedevices",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.4.1",
     "coveralls": "^2.11.4",
