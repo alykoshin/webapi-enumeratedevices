@@ -4,7 +4,7 @@
 
 if ( typeof module !== 'undefined' && typeof require !== 'undefined') {
   var debug   = require('mini-debug');
-  var Emitter = require('mini-emitter.js');
+  var Emitter = require('mini-emitter');
 }
 
 
